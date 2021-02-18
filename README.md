@@ -2,4 +2,4 @@
 
 | # | Title | Solution | Difficulty |
 |---:|:---:|:---:|:---:|
-|1|[Two Sum](https://leetcode.com/problems/two-sum/)| [JS](./solution/1.%20Two%20Sum/Approach%203:%20One-pass%20Hash%20Table.js)|Easy
+|1|[Two Sum](https://leetcode.com/problems/two-sum/)| [JS](./algorithms/1.%20Two%20Sum/Approach%203:%20One-pass%20Hash%20Table.js)|Easy
