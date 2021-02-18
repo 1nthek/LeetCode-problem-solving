@@ -1,8 +1,9 @@
-# LeetCode Algorithms 문제 풀이
+# LeetCode Algorithm 문제 풀이
 
 | # | Title | Solution | Difficulty |
 |---:|:---:|:---:|:---:|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[JS](./algorithms/1.%20Two%20Sum/Approach%203:%20One-pass%20Hash%20Table.js)|Easy
+|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[JS](./algorithms/2.%20Add%20Two%20Numbers/Approach%201:%20Elementary%20Math.js)|Easy
 
 
 # LeetCode Database 문제 풀이
